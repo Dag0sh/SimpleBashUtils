@@ -1,2 +1,2 @@
 # SimpleBashUtils
-Разработка утилит Bash по работе с текстом: cat, grep.
+In this project I learnt and developed basic Bash utilities for working with C programming language texts
